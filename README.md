@@ -36,6 +36,26 @@ O Mark fica quieto no canto da tela e só chama quando faz diferença. Ele não 
 | **Modo ampliado** | Tarefa, conta do Ads, avisos e Configurações abrem numa barra larga e alta para ler com calma. |
 | **Voz (em teste)** | `Ctrl+Alt+M` para falar com o Mark; ele responde falando. |
 
+## Veja em ação
+
+Gravado na própria barra do Mark, com dados de exemplo.
+
+**Abrir uma tarefa e ampliar para ler com calma**
+
+<p align="center"><img src="docs/em-acao-tarefa.gif" alt="A barra abre a lista do Asana, mostra uma tarefa com prazo, responsável, subtarefas e comentários, e amplia para uma barra larga" width="760"></p>
+
+**Nova tarefa escrevendo do jeito que se fala**
+
+<p align="center"><img src="docs/em-acao-nova-tarefa.gif" alt="Digitando uma tarefa com amanhã, #projeto e @pessoa, e a barra mostrando a prévia com prazo, projeto e responsável" width="760"></p>
+
+**Google Ads: o alerta e a conta por dentro**
+
+<p align="center"><img src="docs/em-acao-ads.gif" alt="A lista de contas do Google Ads com um alerta de orçamento e a conta aberta com campanhas, termos sem conversão e relatório" width="760"></p>
+
+**Claude Code pedindo permissão na barra**
+
+<p align="center"><img src="docs/em-acao-claude.gif" alt="A barra avisa que o Claude precisa de permissão, com Permitir, Permitir sempre e Negar, e mostra os cartões das conversas" width="760"></p>
+
 ## Os estados do Mark
 
 O Mark reage ao que está acontecendo: dá oi quando abre, fica de olho no cursor, corre quando o Claude está trabalhando, chama quando algo espera por você e comemora quando você conclui uma tarefa. Também dá para minimizá-lo: ele vira o ponto do logo **vm.** na barra e continua reagindo dali.
